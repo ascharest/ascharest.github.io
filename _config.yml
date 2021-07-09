@@ -13,23 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tamara L. Mitchell
-email: tamara.mitchell@ubc.ca
+title: Anne-Sophie Charest
+email: anne-sophie.charest@mat.ulaval.ca
 appointment: |-
-  [Assistant Professor of Spanish](https://fhis.ubc.ca/people/tamara-mitchell/)  
-  Department of French, Hispanic and Italian Studies  
-  Green College Leading Scholars Program, 2019-2021  
-  University of British Columbia      
+  [Professeure agrégée de statistique](https://fhis.ubc.ca/people/tamara-mitchell/)  
+  Département de mathématiques et de statistique  
+  Université Laval      
 office_address: |-
-  Buchanan Tower 809  
-  1873 E Mall  
-  Vancouver, BC V6T 1Z1
-description: Literary scholar. Educator. Expat.
+  Inclure?
+description: Inclure?
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tamaraleemitchell.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-icon: /assets/images/icons/radish_icon.png
-twitter_username: spanglishtammy
-github_username:  tamaraleemitchell
+url: "https://ascharest.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#icon: /assets/images/icons/radish_icon.png
+twitter_username: ascharest
+github_username:  ascharest
 hide_search: true
 footer:
   links:
@@ -40,14 +37,14 @@ footer:
     - label: ""
       #label: "Github"
       icon: "fab fa-fw fa-github fa-2x"
-      url: "https://github.com/tamaraleemitchell"
-    - label: ""
+      url: "https://github.com/ascharest"
+    - #label: ""
       #label: "Curriculum Vit&aelig;"
-      icon: "ai ai-fw ai-cv-square ai-2x"
-      url: "/assets/research/CV_TamaraMitchell.pdf"
+      #icon: "ai ai-fw ai-cv-square ai-2x"
+      #url: "/assets/research/CV_TamaraMitchell.pdf"
     - label: ""
       icon: "fab fa-fw fa-twitter fa-2x"
-      url: "http://twitter.com/spanglishtammy"
+      url: "http://twitter.com/ascharest"
       
 # Build settings
 markdown: kramdown
