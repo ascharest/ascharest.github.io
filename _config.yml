@@ -72,4 +72,3 @@ show_excerpts: true
 #paginate: 5
 #paginate_path: "/blog/page:num/"
 
-google_analytics: "G-2Y033C89EM"
